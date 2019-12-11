@@ -8,5 +8,11 @@ public class MyFirstClass {
         int hours;
         Date timeOfDeparture;
         Date timeOfArrival;
+        
+    }
+    
+    public void meetTheTeam() {
+        
+
     }
 }
