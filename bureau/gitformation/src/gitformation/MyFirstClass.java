@@ -9,6 +9,8 @@ public class MyFirstClass {
         Date timeOfDeparture;
         Date timeOfArrival;
         
+        timeOfDeparture = new Date();
+        
     }
     
     public void meetTheTeam() {
