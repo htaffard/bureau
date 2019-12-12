@@ -15,4 +15,9 @@ public class MyFirstClass {
         
 
     }
+    
+    public void visitDelhi() {
+        
+
+    }
 }
