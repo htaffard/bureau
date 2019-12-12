@@ -9,7 +9,7 @@ public class MyFirstClass {
     public Date travelToNoida() {
         int hours;
         Date timeOfDeparture;
-        Date timeOfArrival;
+        Date timeOfArrival = null;
         
         timeOfDeparture = new Date();
         
