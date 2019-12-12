@@ -6,11 +6,14 @@ import java.util.List;
 
 public class MyFirstClass {
 
-    public void travelToNoida() {
+    public Date travelToNoida() {
         int hours;
         Date timeOfDeparture;
         Date timeOfArrival;
         
+        timeOfDeparture = new Date();
+        
+        return timeOfArrival;
     }
     
     public void meetTheTeam() {
