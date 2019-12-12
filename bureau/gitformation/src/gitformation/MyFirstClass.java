@@ -16,8 +16,13 @@ public class MyFirstClass {
         return timeOfArrival;
     }
     
+
     public void meetTheTeam() {
         String result = "very happy";
+    }
+    
+    public void goBackToFrance() {
+       
 
     }
     
