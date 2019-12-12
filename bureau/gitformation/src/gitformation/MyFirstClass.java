@@ -17,12 +17,12 @@ public class MyFirstClass {
     }
     
     public void meetTheTeam() {
-        
+        String result = "very happy";
 
     }
     
     public void visitDelhi() {
         
         List<String> visitList = new ArrayList<>();
-l    }
+    }
 }
