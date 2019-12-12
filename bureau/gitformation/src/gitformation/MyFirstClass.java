@@ -1,6 +1,8 @@
 package gitformation;
 
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 
 public class MyFirstClass {
 
@@ -18,6 +20,6 @@ public class MyFirstClass {
     
     public void visitDelhi() {
         
-
-    }
+        List<String> visitList = new ArrayList<>();
+l    }
 }
